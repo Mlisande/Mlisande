@@ -1,4 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋 I'm Mélisande </h1>
+
+
+<p align="center">a student software developer based in Paris !</p>
+</br>
+</br>
+
+- 🔭 I’m currently studying in Ada Tech School.
+- 👯 I’m looking for a 1 Year apprenticeship beginning in October 2022.
+- 📫 How to reach me: melisande.malonga@gmail.com
+
+
 
 <!--
 **Mlisande/Mlisande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
