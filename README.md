@@ -11,8 +11,8 @@
 
   <h1 align="center">Tech Stack and Tools </h1>
 
-  <img height="50px" width="50px" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="gap: 20px" />
-  <img height="50px" width="50px" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right: 11px" />
+  <img height="50px" width="50px" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right: 20px;" />
+  <img height="50px" width="50px" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right: 11px;" />
   <img height="50px" width="50px" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right: 11px" />
   <img height="50px" width="50px" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right: 11px" />
   <img height="50px" width="50px" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right: 11px" />
