@@ -11,7 +11,7 @@
 
   <h1 align="center">Tech Stack and Tools </h1>
 
-  <img height="50px" width="50px" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right: 20px;" />
+ [ <img  width="50px" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right: 20px;" />]
   <img height="50px" width="50px" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right: 11px;" />
   <img height="50px" width="50px" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right: 11px" />
   <img height="50px" width="50px" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right: 11px" />
@@ -32,6 +32,10 @@
   <img height="50px" width="50px" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
   <img height="50px" width="50px" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
   <img height="50px" width="50px" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+
+  <h1 align="center">Github Stats </h1>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mlisande)](https://github.com/anuraghazra/github-readme-stats)
           
           
           
