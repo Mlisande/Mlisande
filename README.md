@@ -9,6 +9,12 @@
 - 👯 I’m looking for a 1 Year apprenticeship beginning in October 2022.
 - 📫 How to reach me: melisande.malonga@gmail.com
 
+  <h1 align="center">Tech Stack and Tools </h1>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+          
+
 
 
 <!--
