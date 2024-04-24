@@ -1,41 +1,58 @@
-<h1 align="center">Hi there 👋 I'm Mélisande </h1>
-
-
-<p align="center">a student software developer based in Paris !</p>
+<div id="header" align="center">
+  <img     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjltaGRjZTFuOHh6eXZ6aHk4MG1vOWlraTg3aG1zcGt1cThpM3FtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s63Jzew1dfO3j6nndV/giphy.gif" width="100">
+  <div id="badges">
+    <a href="">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <h1 align="center">Hi there 👋 I'm Mélisande </h1>
+  <p align="center">a junior Full-Stack developer based in Paris !</p>
+</div>
 </br>
-</br>
 
-- 🔭 I’m currently studying in Ada Tech School.
-- 👯 I’m looking for a 1 Year apprenticeship beginning in October 2022.
+<h1>  :woman_technologist: About Me  :</h1>
+
+- 🔭 I’m currently junior Full-Stack Developer.
+- 🎓 Recently completed a 2-year program at Ada Tech School, including one year of apprenticeship.
+- 💼 At this point, I am actively seeking a professional opportunity to apply my technical skills and continue my professional growth.
 - 📫 How to reach me: melisande.malonga@gmail.com
+<br>
 
-  <h1 align="center">Tech Stack and Tools </h1>
 
- [ <img  width="50px" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right: 20px;" />]
-  <img height="50px" width="50px" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right: 11px;" />
-  <img height="50px" width="50px" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right: 11px" />
-  <img height="50px" width="50px" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right: 11px" />
-  <img height="50px" width="50px" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right: 11px" />
-  <img height="50px" width="50px" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" style="padding-right: 11px" />
-  <img height="50px" width="50px" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" style="padding-right: 11px" />
-  <img height="50px" width="50px" alt="axios" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" />
-  <img height="50px" width="50px" alt="nodemon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-plain.svg" />
-  <img height="50px" width="50px" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-  <img height="50px" width="50px" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img height="50px" width="50px" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img height="50px" width="50px" alt="mui" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
-  <img height="50px" width="50px" alt="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  <img height="50px" width="50px" alt="notion" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-  <img height="50px" width="50px" alt="svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
-  <img height="50px" width="50px" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img height="50px" width="50px" alt="jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
-  <img height="50px" width="50px" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-  <img height="50px" width="50px" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
-  <img height="50px" width="50px" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+<h1> :hammer_and_wrench: Languages and Tools </h1>
+<br>
+<div>
+<img  width="50px" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>&nbsp
+<img height="50px" width="50px" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp
+<img height="50px" width="50px" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp
+<img height="50px" width="50px" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>&nbsp
+<img height="50px" width="50px" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>&nbsp
+  <img height="50px" width="50px" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/>&nbsp
+  <img height="50px" width="50px" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"/>&nbsp
+  <img height="50px" width="50px" alt="axios" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" />&nbsp
+  <img height="50px" width="50px" alt="nodemon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-plain.svg" />&nbsp
+  <img height="50px" width="50px" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />&nbsp
+  <img height="50px" width="50px" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp
+  <img height="50px" width="50px" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />&nbsp
+  <img height="50px" width="50px" alt="mui" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />&nbsp
+  <img height="50px" width="50px" alt="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />&nbsp
+  <img height="50px" width="50px" alt="notion" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />&nbsp
+  <img height="50px" width="50px" alt="svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />&nbsp
+  <img height="50px" width="50px" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />&nbsp
+  <img height="50px" width="50px" alt="jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />&nbsp
+  <img height="50px" width="50px" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />&nbsp
+  <img height="50px" width="50px" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />&nbsp
+  <img height="50px" width="50px" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />&nbsp
+  </div>
+  <br>
 
-  <h1 align="center">Github Stats </h1>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mlisande)](https://github.com/anuraghazra/github-readme-stats)
+  <h1> :fire: Github Stats </h1>
+  <br>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mlisande&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mlisande&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
           
           
           
