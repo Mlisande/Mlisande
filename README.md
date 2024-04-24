@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/736x/c3/ac/91/c3ac91cdfb7e17dcdbd9741560cb1622.jpg" height="100vh">
+  <img src="https://i.pinimg.com/736x/c3/ac/91/c3ac91cdfb7e17dcdbd9741560cb1622.jpg" height="200vh">
   <div id="badges">
     <a href="">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
