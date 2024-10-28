@@ -6,7 +6,7 @@
     </a>
   </div>
   <h1 align="center">Hi there 👋 I'm Mélisande </h1>
-  <p align="center">a junior Full-Stack developer based in Paris !</p>
+  <p align="center">a Full-Stack developer based in Paris !</p>
 </div>
 </br>
 
