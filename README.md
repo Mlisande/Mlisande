@@ -6,13 +6,13 @@
     </a>
   </div>
   <h1 align="center">Hi there 👋 I'm Mélisande </h1>
-  <p align="center">a Full-Stack developer based in Paris !</p>
+  <p align="center">a Front-End developer based in Paris !</p>
 </div>
 </br>
 
 <h1>  :woman_technologist: About Me  :</h1>
 
-- 🔭 I’m currently junior Full-Stack Developer.
+- 🔭 I’m currently Front-End Developer with expertise in accessibility.
 - 🎓 Recently completed a 2-year program at Ada Tech School, including one year of apprenticeship.
 - 💼 At this point, I am actively seeking a professional opportunity to apply my technical skills and continue my professional growth.
 - 📫 How to reach me: melisande.malonga@gmail.com
